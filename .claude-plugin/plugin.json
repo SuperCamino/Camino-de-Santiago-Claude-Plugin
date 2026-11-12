@@ -10,6 +10,7 @@
   "homepage": "https://supercamino.com",
   "license": "MIT",
   "privacyPolicyUrl": "https://supercamino.com/privacy/",
+  "icon": ".claude-plugin/sc_icon.jpg",
   "keywords": [
     "camino de santiago",
     "camino",
