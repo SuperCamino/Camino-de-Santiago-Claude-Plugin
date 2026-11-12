@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "supercamino": {
+      "type": "http",
+      "url": "https://supercamino.com/mcp"
+    }
+  }
+}

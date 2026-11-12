@@ -1,0 +1,21 @@
+{
+  "name": "supercamino",
+  "displayName": "SuperCamino: Camino de Santiago Planner",
+  "version": "1.0.0",
+  "description": "Where to stop each night on the Camino de Santiago: day-by-day stages with GPS distances, climbs, and albergues. Free to use, no sign-up needed to plan.",
+  "author": {
+    "name": "SuperCamino",
+    "url": "https://supercamino.com"
+  },
+  "homepage": "https://supercamino.com",
+  "license": "MIT",
+  "keywords": [
+    "camino de santiago",
+    "camino",
+    "pilgrimage",
+    "hiking",
+    "itinerary",
+    "albergue",
+    "travel"
+  ]
+}
