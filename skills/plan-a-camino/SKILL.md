@@ -1,6 +1,6 @@
 ---
 name: plan-a-camino
-description: Plan a Camino de Santiago day by day, as a day-by-day itinerary of Camino stages. Use when someone asks where to stop each night, how many km a day to walk, wants a Camino itinerary or stages, or asks to walk a number of days from a starting town, e.g. "I want to walk from Sarria, where should I stop each night?", "the Camino Francés in 30 days from 1 October", "Camino Portugués from Porto in 2 weeks", "Le Puy to Santiago". Covers the Francés, Portugués (central and coastal), Norte, Primitivo, Inglés, Finisterre and Muxía, the Spiritual Variant, and the Via Podiensis. Also: Jakobsweg, chemin de Compostelle, Cammino di Santiago, Caminho de Santiago, etapas.
+description: Plan a Camino de Santiago day by day, as a day-by-day itinerary of Camino stages. Use when someone asks where to stop each night, how many km a day to walk, wants a Camino itinerary or stages, or asks to walk a number of days from a starting town, e.g. "I want to walk from Sarria, where should I stop each night?", "the Camino Francés in 30 days from 1 October", "Camino Portugués from Porto in 2 weeks", "Le Puy to Santiago". Covers the Francés, Portugués (central and coastal), Norte, Primitivo, Inglés, Finisterre and Muxía, the Spiritual Variant, and the Via Podiensis. Also called the Jakobsweg, chemin de Compostelle, Cammino di Santiago, Caminho de Santiago, etapas.
 ---
 
 # Plan a Camino
