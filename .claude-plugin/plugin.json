@@ -8,8 +8,12 @@
     "url": "https://supercamino.com"
   },
   "homepage": "https://supercamino.com",
+  "repository": "https://github.com/SuperCamino/Camino-de-Santiago-Claude-Plugin",
+  "documentationUrl": "https://github.com/SuperCamino/Camino-de-Santiago-Claude-Plugin#readme",
+  "supportUrl": "https://supercamino.com/contact/",
   "license": "MIT",
   "privacyPolicyUrl": "https://supercamino.com/privacy/",
+  "termsOfServiceUrl": "https://supercamino.com/terms/",
   "icon": ".claude-plugin/sc_icon.jpg",
   "keywords": [
     "camino de santiago",
